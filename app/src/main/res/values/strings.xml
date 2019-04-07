@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Never Get Lost</string>
+    <string name="title_activity_mapsafi">Never Get Lost</string>
+    <string name="title_activity_menu">Never Get Lost</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="item_menu2">Log Out</string>
+
+    <string-array name="planets_array">
+        <item>Ecole</item>
+        <item>Hotel</item>
+        <item>Snack</item>
+        <item>Magazins</item>
+        <item>Cafes</item>
+        <item>SuperMarche</item>
+        <item>Banques</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
